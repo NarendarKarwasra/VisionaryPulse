@@ -316,7 +316,7 @@
 
 
     .bridge-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr !important;
     }
 
     .positioning-header h2 {
@@ -471,7 +471,7 @@
     }
 
     .profile-img-container {
-        height: 200px;
+        /* height: 200px; */
     }
 
 
